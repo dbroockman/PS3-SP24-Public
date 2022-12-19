@@ -1,0 +1,132 @@
+countryname,polity2,polity2_cat,gdpcapita,gdpcapita_cat,happiness,happiness_cat,life_expectancy,life_expectancy_cat
+Afghanistan,-1,anocracies,2190.7515,low-income,2.694,least happy,52.599998,shortest lives
+Albania,9,democracies,13602.374,middle-income,5.0040002,middle happiness,68.699997,middle
+Algeria,2,anocracies,11475.844,middle-income,5.0430002,middle happiness,65.900002,middle
+Argentina,9,democracies,22742.701,middle-income,5.7930002,middle happiness,68.800003,middle
+Armenia,7,democracies,12720.883,middle-income,5.0619998,middle happiness,66.900002,middle
+Australia,10,democracies,49563,rich,7.177,most happy,73.599998,longest lives
+Austria,10,democracies,55714.766,rich,7.3959999,most happy,73,longest lives
+Azerbaijan,-7,autocracies,14214.25,middle-income,5.1680002,middle happiness,65.5,middle
+Bangladesh,-6,autocracies,4442.6226,low-income,4.4990001,least happy,64.300003,middle
+Belarus,-7,autocracies,18882.668,middle-income,5.2340002,middle happiness,66.099998,middle
+Belgium,8,democracies,51225.863,rich,6.8920002,most happy,72,longest lives
+Benin,7,democracies,3162.1265,low-income,5.8200002,middle happiness,54.299999,shortest lives
+Bolivia,7,democracies,8655.9307,middle-income,5.9159999,middle happiness,63.599998,middle
+Botswana,8,democracies,17641.332,middle-income,3.461,least happy,58.900002,shortest lives
+Brazil,8,democracies,14603.255,middle-income,6.191,middle happiness,66.400002,middle
+Bulgaria,9,democracies,22181.191,middle-income,5.099,middle happiness,66.800003,middle
+Burkina Faso,6,democracies,2132.3928,low-income,4.927,middle happiness,53.900002,shortest lives
+Burundi,-1,anocracies,761.27924,low-income,3.7750001,least happy,53.400002,shortest lives
+Cambodia,-4,anocracies,4158.8765,low-income,5.1220002,middle happiness,61.599998,middle
+Cameroon,-4,anocracies,3604.7207,low-income,5.2509999,middle happiness,52.700001,shortest lives
+Canada,10,democracies,48922.875,rich,7.1750002,most happy,73.599998,longest lives
+Chad,-2,anocracies,1576.559,low-income,4.4860001,least happy,48.200001,shortest lives
+Chile,10,democracies,24270.094,middle-income,6.4359999,most happy,69.900002,longest lives
+China,-7,autocracies,15244.895,middle-income,5.131,middle happiness,69.300003,longest lives
+Colombia,7,democracies,14457.961,middle-income,5.9840002,middle happiness,67.699997,middle
+Comoros,-3,anocracies,3065.604,low-income,3.973,least happy,57.200001,shortest lives
+Congo Brazzaville,-4,anocracies,3415.2285,low-income,5.4899998,middle happiness,57.900002,shortest lives
+Costa Rica,10,democracies,19418.852,middle-income,7.1409998,most happy,71.300003,longest lives
+Cote D'Ivoire,4,anocracies,5029.1172,low-income,5.2680001,middle happiness,49.5,shortest lives
+Croatia,9,democracies,27556.672,middle-income,5.5359998,middle happiness,70.199997,longest lives
+Cyprus,10,democracies,38832.02,rich,6.276,most happy,73.699997,longest lives
+Czech Republic,9,democracies,39458.32,rich,7.0339999,most happy,70.300003,longest lives
+Denmark,10,democracies,56106.133,rich,7.6490002,most happy,72.400002,longest lives
+Dominican Republic,7,democracies,17712.035,middle-income,5.4330001,middle happiness,65.800003,middle
+Ecuador,5,anocracies,11556.456,middle-income,6.1279998,middle happiness,68.5,middle
+Egypt,-4,anocracies,11361.666,middle-income,4.0050001,least happy,61.700001,middle
+El Salvador,8,democracies,8612.7578,middle-income,6.2410002,middle happiness,66.099998,middle
+Estonia,9,democracies,35312.777,rich,6.0910001,middle happiness,68.599998,middle
+Ethiopia,1,anocracies,2102.7473,low-income,4.3790002,least happy,58.5,shortest lives
+Finland,10,democracies,48194.492,rich,7.8579998,most happy,71.900002,longest lives
+France,10,democracies,45569.789,rich,6.6659999,most happy,73.800003,longest lives
+Gabon,3,anocracies,14750.023,middle-income,4.783,middle happiness,59.700001,middle
+Gambia,4,anocracies,2145.2256,low-income,4.9219999,middle happiness,55,shortest lives
+Georgia,7,democracies,14256.947,middle-income,4.6589999,least happy,64.5,middle
+Germany,10,democracies,53637.32,rich,7.118,most happy,72.199997,longest lives
+Ghana,8,democracies,5192.6543,middle-income,5.0040002,middle happiness,57.200001,shortest lives
+Greece,10,democracies,29702.895,middle-income,5.4089999,middle happiness,72.400002,longest lives
+Guatemala,8,democracies,8450.6602,middle-income,6.6269999,most happy,64.800003,middle
+Guinea,4,anocracies,2497.3862,low-income,5.2519999,middle happiness,54.400002,shortest lives
+Haiti,5,anocracies,1766.9325,low-income,3.615,least happy,55.700001,shortest lives
+Honduras,7,democracies,5670.3135,middle-income,5.908,middle happiness,67.199997,middle
+Hungary,10,democracies,31070.059,middle-income,5.9359999,middle happiness,67.599998,middle
+India,9,democracies,6496.3794,middle-income,3.8180001,least happy,60.099998,middle
+Indonesia,9,democracies,11373.026,middle-income,5.3400002,middle happiness,62.099998,middle
+Iraq,6,democracies,10657.298,middle-income,4.8860002,middle happiness,60.200001,middle
+Ireland,10,democracies,83449.734,rich,6.9619999,most happy,72.300003,longest lives
+Israel,6,democracies,39537.309,rich,6.927,most happy,73.300003,longest lives
+Italy,10,democracies,42192.578,rich,6.5170002,most happy,73.599998,longest lives
+Japan,10,democracies,41068.641,rich,5.7940001,middle happiness,75,longest lives
+Jordan,-3,anocracies,9857.6201,middle-income,4.6389999,least happy,66.800003,middle
+Kazakhstan,-6,autocracies,25539.965,middle-income,6.0079999,middle happiness,64.599998,middle
+Kenya,9,democracies,4204.875,low-income,4.6560001,least happy,60.099998,middle
+Korea South,8,democracies,41898.262,rich,5.8400002,middle happiness,73.599998,longest lives
+Kyrgyzstan,8,democracies,5130.7144,middle-income,5.2969999,middle happiness,64.099998,middle
+Laos,-7,autocracies,7593.1396,middle-income,4.8590002,middle happiness,58.700001,shortest lives
+Latvia,8,democracies,29941.482,middle-income,5.901,middle happiness,66.800003,middle
+Lebanon,6,democracies,15615.201,middle-income,5.1669998,middle happiness,67.099998,middle
+Liberia,7,democracies,1496.673,low-income,4.1350002,least happy,56.099998,shortest lives
+Libya,0,anocracies,15017.923,middle-income,5.494,middle happiness,62.299999,middle
+Lithuania,10,democracies,35383.469,rich,6.309,most happy,67.300003,middle
+Luxembourg,10,democracies,114119.39,rich,7.243,most happy,72.599998,longest lives
+Madagascar,6,democracies,1613.2405,low-income,4.0710001,least happy,59.099998,middle
+Malawi,6,democracies,1042.1069,low-income,3.335,least happy,57.599998,shortest lives
+Malaysia,7,democracies,27529.119,middle-income,5.3390002,middle happiness,67,middle
+Mali,5,anocracies,2282.4387,low-income,4.4159999,least happy,51.700001,shortest lives
+Mauritania,-2,anocracies,5044.2285,middle-income,4.3140001,least happy,57,shortest lives
+Mauritius,10,democracies,22203.393,middle-income,5.882,middle happiness,66.400002,middle
+Mexico,8,democracies,19990.248,middle-income,6.5500002,most happy,68.300003,middle
+Moldova,9,democracies,12369.64,middle-income,5.6820002,middle happiness,65,middle
+Mongolia,10,democracies,11920.318,middle-income,5.4650002,middle happiness,62.299999,middle
+Montenegro,9,democracies,20619.654,middle-income,5.6500001,middle happiness,68.5,middle
+Morocco,-4,anocracies,7435.3398,middle-income,4.8969998,middle happiness,65.900002,middle
+Mozambique,5,anocracies,1289.4875,low-income,4.6539998,least happy,54.200001,shortest lives
+Myanmar (Burma),8,democracies,5029.1172,low-income,4.4109998,least happy,59,middle
+Namibia,6,democracies,9936.8018,middle-income,4.8340001,middle happiness,56.5,shortest lives
+Nepal,7,democracies,3251.9167,low-income,4.9099998,middle happiness,63.5,middle
+Netherlands,10,democracies,56443.758,rich,7.4629998,most happy,72.300003,longest lives
+New Zealand,10,democracies,42616.629,rich,7.3699999,most happy,73.199997,longest lives
+Nicaragua,6,democracies,5693.0439,middle-income,5.8189998,middle happiness,67.5,middle
+Niger,5,anocracies,1196.3134,low-income,5.164,middle happiness,53.5,shortest lives
+Nigeria,7,democracies,5156.4331,middle-income,5.2519999,middle happiness,49.700001,shortest lives
+Norway,10,democracies,63322.738,rich,7.4439998,most happy,73.199997,longest lives
+Pakistan,7,democracies,4740.9829,low-income,5.4720001,middle happiness,58.5,shortest lives
+Panama,9,democracies,31039.02,middle-income,6.2810001,most happy,69.599998,longest lives
+Peru,9,democracies,12784.647,middle-income,5.6799998,middle happiness,68.099998,middle
+Philippines,8,democracies,8518.5391,middle-income,5.869,middle happiness,61.900002,middle
+Poland,10,democracies,31761.184,rich,6.1110001,middle happiness,69.300003,longest lives
+Portugal,10,democracies,33996.063,rich,5.9200001,middle happiness,72.400002,longest lives
+Romania,9,democracies,28566.793,middle-income,6.151,middle happiness,67.199997,middle
+Russia,4,anocracies,26662.143,middle-income,5.5139999,middle happiness,64.300003,middle
+Rwanda,-3,anocracies,2088.0796,low-income,3.5610001,least happy,61.099998,middle
+Saudi Arabia,-10,autocracies,47619.609,rich,6.3559999,most happy,66.300003,middle
+Senegal,7,democracies,3314.2942,low-income,4.7690001,least happy,59.599998,middle
+Serbia,8,democracies,17361.32,middle-income,5.9359999,middle happiness,68.199997,middle
+Sierra Leone,7,democracies,1664.0336,low-income,4.3060002,least happy,50.799999,shortest lives
+Singapore,-2,anocracies,97733.508,rich,6.375,most happy,76.800003,longest lives
+Slovak Republic,10,democracies,32080.396,rich,6.2350001,middle happiness,68.900002,middle
+Slovenia,10,democracies,38025.016,rich,6.2490001,middle happiness,71.099998,longest lives
+South Africa,9,democracies,12632.147,middle-income,4.8839998,middle happiness,56.5,shortest lives
+Spain,10,democracies,40335.996,rich,6.513,most happy,74.400002,longest lives
+Sri Lanka,6,democracies,12861.58,middle-income,4.4349999,least happy,67.199997,middle
+Swaziland,-9,autocracies,8604.1543,middle-income,4.2119999,least happy,50.353001,shortest lives
+Sweden,10,democracies,53156.707,rich,7.375,most happy,72.599998,longest lives
+Switzerland,10,democracies,68459.648,rich,7.5089998,most happy,74.099998,longest lives
+Tajikistan,-3,anocracies,3235.6975,low-income,5.4970002,middle happiness,64.099998,middle
+Tanzania,3,anocracies,2588.9307,low-income,3.4449999,least happy,57.5,shortest lives
+Thailand,-3,anocracies,18087.936,middle-income,6.0120001,middle happiness,67.199997,middle
+Togo,-2,anocracies,1553.0873,low-income,4.0229998,least happy,54.700001,shortest lives
+Tunisia,7,democracies,10764.408,middle-income,4.7410002,least happy,66.900002,middle
+Turkey,-4,anocracies,28310.85,middle-income,5.1859999,middle happiness,66.800003,middle
+Turkmenistan,-8,autocracies,14838.783,middle-income,4.6209998,least happy,62.200001,middle
+UAE,-8,autocracies,66970.031,rich,6.6040001,most happy,67.099998,middle
+Uganda,-1,anocracies,2121.7571,low-income,4.322,least happy,55.700001,shortest lives
+Ukraine,4,anocracies,12332.583,middle-income,4.6620002,least happy,64.599998,middle
+United Kingdom,8,democracies,46304.758,rich,7.2329998,most happy,72.300003,longest lives
+United States,8,democracies,61389.84,rich,6.8829999,most happy,68.300003,middle
+Uruguay,10,democracies,21590.303,middle-income,6.3720002,most happy,69,middle
+Uzbekistan,-9,autocracies,6754.7407,middle-income,6.2049999,middle happiness,65.099998,middle
+Vietnam,-7,autocracies,7585.5469,middle-income,5.296,middle happiness,67.900002,middle
+Zambia,6,democracies,3522.7593,low-income,4.0409999,least happy,55.299999,shortest lives
+Zimbabwe,4,anocracies,3130.6621,low-income,3.6159999,least happy,55.599998,shortest lives
