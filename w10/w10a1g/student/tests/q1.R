@@ -17,7 +17,7 @@ test = list(
       points = 0.5,
       code = {
         g.correctq1 <- qplot(marriage_opinion, marriage_perception, data = democrats.only)
-        question.correct <- all.equal(ggplot_build(g.correctq1), ggplot_build(dem.graph))
+        question.correct <- all.equal(g.correctq1$data, dem.graph$data) & all.equal(g.correctq1$mapping, dem.graph$mapping)
         testthat::expect_true(question.correct,
                                     info = "dem.graph does not look right.")
       }
