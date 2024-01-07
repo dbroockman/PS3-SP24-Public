@@ -8,7 +8,7 @@ test = list(
       code = {
         question.correct <- identical( reg.no.covars$coefficients , summary(lm(anyhelp ~ treat, data))$coefficients ) 
         testthat::expect_true(question.correct,
-                                    info = "Recall `lm( lmcol ~ treatment, dataset)`")
+                                    info = "Recall lm(outcome ~ treatment, dataset)")
       }
     )
   )

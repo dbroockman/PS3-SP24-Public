@@ -9,7 +9,7 @@ test = list(
         question.correct <- identical( effect.of.neighbors.mail ,
           mean(social$outcome_voted[social$treat_neighbors == 1]) - mean(social$outcome_voted[social$control_group == 1])  )
         testthat::expect_true(question.correct,
-                                    info = "Subtract meanControl from meanNeighbors.")
+                                    info = "Should it be meanControl - meanNeighbors or meanNeighbors - meanControl?")
       }
     )
   )

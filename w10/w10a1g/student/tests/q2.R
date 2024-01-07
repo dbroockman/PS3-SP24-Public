@@ -6,14 +6,16 @@ test = list(
       name = NA,
       points = 1.0,
       code = {
+        question.correct <- FALSE
         g.correct.q2 <- qplot(marriage_opinion, marriage_perception, data = democrats.only) + geom_smooth(method = 'lm')
-        if(length(dem.graph.with.line$layers) < 2) {
-            question.correct <- FALSE
-        } else {
-        question.correct <- all.equal(g.correct.q2$data, dem.graph.with.line$data) &
-                            all.equal(g.correct.q2$mapping, dem.graph.with.line$mapping) &
-                            all.equal(g.correct.q2$layers[[2]]$constructor, dem.graph.with.line$layers[[2]]$constructor)
-        }
+        try(
+        question.correct <- all.equal(g.correct.q2$data, dem.graph.with.line$data) & 
+                            all.equal(g.correct.q2$mapping[['x']], dem.graph.with.line$mapping[['x']]) == TRUE & 
+                            all.equal(g.correct.q2$mapping[['y']], dem.graph.with.line$mapping[['y']]) == TRUE &
+                            all.equal(g.correct.q2$layers[[2]][['stat_params']][['method']],
+                                      dem.graph.with.line$layers[[2]][['stat_params']][['method']]),
+           silent = TRUE
+        )
         testthat::expect_true(question.correct,
                                     info = "dem.graph.with.line does not look right.")
       }

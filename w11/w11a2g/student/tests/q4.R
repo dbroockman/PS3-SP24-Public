@@ -11,7 +11,7 @@ test = list(
         identical( coef(reg.with.controls) , 
                                       coef(summary(lm(anyhelp ~ treat + femprop + station1, data))) )
         testthat::expect_true(question.correct,
-                                    info = "Recall `lm( lmcol ~ treatment + covariate1 + covariate2, data = dataset)`")
+                                    info = "Recall lm(outcome ~ treatment + covariate1 + covariate2, data = dataset)")
       }
     )
   )
